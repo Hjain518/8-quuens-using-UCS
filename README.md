@@ -1,4 +1,4 @@
-8 Queens Problem using Uniform Cost Search(UCS)
+# 8 Queens Problem using Uniform Cost Search(UCS)
 
 UCS is just a variant of Dijikstra's Algorithm.
 Instead of inserting all vertices into a priority queue, we insert only source.
